@@ -1,1 +1,11 @@
-{}
+{
+  "hero": {
+    "title": "Real-time Content Protection",
+    "description": "Filter harmful content before it reaches your users. Production-ready API in minutes.",
+    "buttons": {
+      "get_started": "Get Started",
+      "explore": "Explore More"
+    },
+    "tech_stack": "The advanced technologies we powered to use"
+  }
+}
