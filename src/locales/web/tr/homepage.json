@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "title": "Gerçek Zamanlı İçerik Koruması",
+    "description": "Zararlı içeriği kullanıcılarınıza ulaşmadan engelleyin. Dakikalar içinde kullanıma hazır API.",
+    "buttons": {
+      "get_started": "Başlayın",
+      "explore": "Keşfet"
+    },
+    "tech_stack": "Kullandığımız ileri seviye teknolojiler"
+  }
+}
