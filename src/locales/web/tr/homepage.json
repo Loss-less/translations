@@ -1,11 +1,11 @@
 {
   "hero": {
-    "title": "Real-time Content Protection",
-    "description": "Filter harmful content before it reaches your users. Production-ready API in minutes.",
+    "title": "Gerçek Zamanlı İçerik Koruması",
+    "description": "Zararlı içeriği kullanıcılarınıza ulaşmadan engelleyin. Dakikalar içinde kullanıma hazır API.",
     "buttons": {
-      "get_started": "Get Started",
-      "explore": "Explore More"
+      "get_started": "Başlayın",
+      "explore": "Keşfet"
     },
-    "tech_stack": "The advanced technologies we powered to use"
+    "tech_stack": "Kullandığımız ileri seviye teknolojiler"
   }
 }
